@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="loading">Loading</string>
+    <string name="location">Location</string>
+    <string name="degrees">\u2103</string>
+    <string name="l_degrees">L:</string>
+    <string name="h_degrees">H:</string>
+    <string name="baseUrl">https://cdn.faire.com/static/mobile-take-home/icons/</string>
+</resources>
